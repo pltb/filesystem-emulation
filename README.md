@@ -1,6 +1,6 @@
 # File system emulation (FAT32 style)
 
-An emulated file system that stores its contents in a file.
+A practice project emulating a file system that stores its contents in a file.
 
 The design is inspired by the FAT file systems.
 
