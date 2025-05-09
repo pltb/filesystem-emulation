@@ -1,1 +1,1 @@
-rootProject.name = "emulated-fs"
+rootProject.name = "filesystem-emulation"
