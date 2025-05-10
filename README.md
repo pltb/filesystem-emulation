@@ -1,4 +1,4 @@
-# File system emulation (FAT32 style)
+# File system emulation (FAT style)
 
 A practice project emulating a file system that stores its contents in a file.
 
